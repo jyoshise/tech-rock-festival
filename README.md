@@ -40,3 +40,4 @@
 
 参加者のコミュニケーションのための[Slackを用意しました](https://join.slack.com/t/tech-rock-festival/shared_invite/zt-1xn965b53-Tn0b2gdHUlh03rrV489bmg)。バンド分けや運営に関するディスカッションもこちらで行います。
 
+不明点などあれば、Twitter: @jyoshise までご連絡ください！
