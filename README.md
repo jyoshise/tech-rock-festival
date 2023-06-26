@@ -26,7 +26,7 @@
 - ～8/末 会場（ライブハウス）確保
 - 2023/11月 or 12月 ライブ！
 
-## 応募方法
+## 参加方法
 
 プレイヤーとして参加希望の方は、[こちらのフォーム](https://forms.gle/r6Xj5TkgbiA6Q6p17)からご登録のうえ、[Slack](https://join.slack.com/t/tech-rock-festival/shared_invite/zt-1xn965b53-Tn0b2gdHUlh03rrV489bmg)に参加してください。バンドでの参加の場合も人数把握のため、メンバー全員分フォーム入力をお願いします。入力いただいた内容は[members.csv](members.csv)に反映します。
 
