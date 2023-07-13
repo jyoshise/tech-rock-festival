@@ -50,7 +50,7 @@
     + Vo./Gt. @kangyoosam
     + Ba. @natural_clar
     + Dr. @p_km
-    + Gt. **募集中！**
+    + Gt. @takasp
     + Key. @af12066
 
 + Band 6 : ガールギタボRock
@@ -75,7 +75,7 @@
     + Dr. **募集中！**
     + Ba. @nagauta
     + Gt. @msd
-    + Gt. **募集中！**
+    + Gt. @uturned0
     + Key. @yamadala
 
 ## ハコ
