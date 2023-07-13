@@ -3,7 +3,7 @@
 ## ToDo
 - [x] バンド編成調整
 - [x] 集客の目途をたてる
-- [ ] ざっくり予算決める（プレイヤー参加費x人数、客呼ぶなら入場料x見込み人数）
+- [x] ざっくり予算決める（プレイヤー参加費x人数、客呼ぶなら入場料x見込み人数）
 - [x] 会場決めて予約
 - [ ] タイムテーブル決め
 
@@ -18,27 +18,27 @@
 ** 7/13時点 **
 以下9バンド。
 
-+ Band 1 
++ Band 1 : 肉体派Rock
     + Vo. @muscle_nishimi
     + Ba. @makocchi
     + Dr. @tsukaman
     + Gt. @ArakiToshihiro
     + Gt. @sito1912
 
-+ Band 2
++ Band 2 : 洋（邦）Rock
     + Vo. @benzookapi
     + Ba. @25_aaa3
     + Dr. @japan_rook
     + Gt. @tatchnicolas
 
-+ Band 3
++ Band 3 : 邦Rock/Pops
     + Vo./Par. @tsukaman
     + Ba./Vo. @karupanerura
     + Dr. @r315dr
     + Gt. @yoshihana0404
     + Gt./Vo. @nasa9084
 
-+ Band 4
++ Band 4 : Funk
     + Vo./Gt. @nobuyaiwao
     + Ba. @okd_jj
     + Dr. @kojiha__
@@ -46,20 +46,20 @@
     + Per. @tsukaman
     + Syn. @r315dr
 
-+ Band 5
++ Band 5 : 邦Rock/Pops
     + Vo./Gt. @kangyoosam
     + Ba. @natural_clar
     + Dr. @p_km
-    + Gt. TBA
+    + Gt. **募集中！**
     + Key. @af12066
 
-+ Band 6
++ Band 6 : ガールギタボRock
     + Vo./Gt. @kokubuno99
     + Ba. @smzksts
     + Dr. @saramune
     + Gt. @jyoshise
 
-+ Band 7
++ Band 7 : アコースティックRock
     + Vo./A.Gt. @hideo04241990
     + Vo./A.Gt. @yukkie1114
     + Per. @tsukaman
@@ -68,13 +68,14 @@
     + Vo./Ba. @yamamanx
     + Dr. @yukkie0703
     + Gt. @JinKanai
+    + Gt. TBA
 
-+ Band 9 : YOLO
++ Band 9 : YOLO / 定番Rock/Pops
     + Vo. ゆてぃ
-    + Dr. TBD
-    + Ba. TBD
+    + Dr. **募集中！**
+    + Ba. @nagauta
     + Gt. @msd
-    + Gt. @nagauta
+    + Gt. **募集中！**
     + Key. @yamadala
 
 ## ハコ
@@ -97,7 +98,9 @@ https://shinjuku-sunface.com/
 - ～2023/7/15 プレイヤー募集
 - ～7/上 バンド分け決定 以降各バンドにて練習
 - ～7/末 会場（ライブハウス）確保
-- 2023/11月 or 12月 ライブ！ -> いったん12/9第一候補 -> 12/23でOK?
+- 11/上 企画書/バンドプロフィール提出期限
+- 12/上 タイムテーブル最終確定
+- 2023/12/23 ライブ！
 
 ## 時間割
 - 1バンド演奏時間20～25分（4～5曲）、転換込みで30分としても、10バンドいたら5時間
