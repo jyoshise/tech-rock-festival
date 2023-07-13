@@ -64,11 +64,11 @@
     + Vo./A.Gt. @yukkie1114
     + Per. @tsukaman
 
-+ Band 8 : トレノケバンド
++ Band 8 : トレノケバンド / Punk Rock?
     + Vo./Ba. @yamamanx
     + Dr. @yukkie0703
     + Gt. @JinKanai
-    + Gt. TBA
+    + Gt. TBD
 
 + Band 9 : YOLO / 定番Rock/Pops
     + Vo. ゆてぃ
