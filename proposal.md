@@ -4,7 +4,7 @@
 - [x] バンド編成調整
 - [x] 集客の目途をたてる
 - [ ] ざっくり予算決める（プレイヤー参加費x人数、客呼ぶなら入場料x見込み人数）
-- [ ] 会場決めて予約
+- [x] 会場決めて予約
 - [ ] タイムテーブル決め
 
 ---
@@ -15,23 +15,89 @@
 - プレイヤーも観客として楽しむ。家族や友人も一緒に。
 
 ## バンド編成
-- ハコの都合考えると8バンドぐらい？ 
-- 参加希望者全員がなるべくやりたいパート・ジャンルをできるよういい感じに
-- 上記叶えた上でのかけもちもOK
+** 7/13時点 **
+以下9バンド。
 
--> 7/6 いったん9バンドで確定
++ Band 1 
+    + Vo. @muscle_nishimi
+    + Ba. @makocchi
+    + Dr. @tsukaman
+    + Gt. @ArakiToshihiro
+    + Gt. @sito1912
+
++ Band 2
+    + Vo. @benzookapi
+    + Ba. @25_aaa3
+    + Dr. @japan_rook
+    + Gt. @tatchnicolas
+
++ Band 3
+    + Vo./Par. @tsukaman
+    + Ba./Vo. @karupanerura
+    + Dr. @r315dr
+    + Gt. @yoshihana0404
+    + Gt./Vo. @nasa9084
+
++ Band 4
+    + Vo./Gt. @nobuyaiwao
+    + Ba. @okd_jj
+    + Dr. @kojiha__
+    + Key. @harak
+    + Per. @tsukaman
+    + Syn. @r315dr
+
++ Band 5
+    + Vo./Gt. @kangyoosam
+    + Ba. @natural_clar
+    + Dr. @p_km
+    + Gt. TBA
+    + Key. @af12066
+
++ Band 6
+    + Vo./Gt. @kokubuno99
+    + Ba. @smzksts
+    + Dr. @saramune
+    + Gt. @jyoshise
+
++ Band 7
+    + Vo./A.Gt. @hideo04241990
+    + Vo./A.Gt. @yukkie1114
+    + Per. @tsukaman
+
++ Band 8 : トレノケバンド
+    + Vo./Ba. @yamamanx
+    + Dr. @yukkie0703
+    + Gt. @JinKanai
+
++ Band 9 : YOLO
+    + Vo. ゆてぃ
+    + Dr. TBD
+    + Ba. TBD
+    + Gt. @msd
+    + Gt. @nagauta
+    + Key. @yamadala
 
 ## ハコ
-- 都内でアクセスが悪くないところ
-- 土日で昼から深夜までホール貸ししてるところ。相場は20万円ぐらい？
-- 着席・飲食できたほうがよいのでは
-- キャパは着席60名ぐらい？
+** 7/13時点 **
+
+12月23日（土） @新宿SUNFACE 13時～23時で予約済み。料金　¥187,000-
+https://shinjuku-sunface.com/
+
+- キャパは着席で50～60人ぐらい
+- 機材： https://shinjuku-sunface.com/equipment/
+- 椅子はパイプのスツールを並べる感じ。丸テーブル4つと長テーブルも使える。
+- ドリンクバーあり。1杯500円。
+- 開演中は食べ物NG。
+- 楽屋は隣のビルの4階にある。
+- 禁煙。楽屋は電子タバコならOK。近くの煙草屋の前で吸う人もいる。
+- 受付はSUNFACEのスタッフがやってくれる。
+- キャンセル料は2か月前から。
 
 ## スケジュール
 - ～2023/7/15 プレイヤー募集
 - ～7/上 バンド分け決定 以降各バンドにて練習
 - ～7/末 会場（ライブハウス）確保
-- 2023/11月 or 12月 ライブ！ -> いったん12/9第一候補
+- 2023/11月 or 12月 ライブ！ -> いったん12/9第一候補 -> 12/23でOK?
 
 ## 時間割
 - 1バンド演奏時間20～25分（4～5曲）、転換込みで30分としても、10バンドいたら5時間
@@ -42,4 +108,5 @@
     - 16:30 開演
     - 21:30 終演・打ち上げ
     - 23:00 撤収
+- お店とも相談してつめましょう。
 
