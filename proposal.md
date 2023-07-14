@@ -21,7 +21,7 @@
 + Band 1 : 肉体派Rock
     + Vo. @muscle_nishimi
     + Ba. @makocchi
-    + Dr. @tsukaman(仮)
+    + Dr. @tsukaman(仮。募集)
     + Gt. @ArakiToshihiro
     + Gt. @sito1912
 
