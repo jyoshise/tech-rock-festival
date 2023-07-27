@@ -21,7 +21,7 @@
 + Band 1 : 肉体派Rock
     + Vo. @muscle_nishimi
     + Ba. @makocchi
-    + Dr. @tsukaman(仮。募集)
+    + Dr. @tsukaman
     + Gt. @ArakiToshihiro
     + Gt. @sito1912
 
@@ -72,7 +72,7 @@
 
 + Band 9 : YOLO / 定番Rock/Pops
     + Vo. ゆてぃ
-    + Dr. **募集中！**
+    + Dr. @toricls
     + Ba. @nagauta
     + Gt. @msd
     + Gt. @uturned0
