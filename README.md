@@ -10,10 +10,10 @@
 | 2024 | 2days・12バンド | 新宿SUNFACE |
 | 2025 | 3days・18バンド | 新宿SUNFACE |
 
-## 2026年に向けて
+## TECH x ROCK Festival 2027（2027年4月開催予定）
 
-- [企画書](./2026/proposal.md)
-- [参加申込フォーム設計](./2026/registration/form-design.md)
+- [企画書](./2027/proposal.md)
+- [参加申込フォーム設計](./2027/registration/form-design.md)
 
 ## コンセプト
 
